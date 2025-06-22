@@ -1,7 +1,5 @@
 Hi, I'm Mrunal Sonekar 👋! A passionate Data Scientist and Machine Learning Engineer.
 
-### My GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Mrunalsonekar&show_icons=true&theme=radical
 
  🌟 Featured Projects
 
