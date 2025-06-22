@@ -22,4 +22,6 @@ Hi, I'm Mrunal Sonekar 👋! A passionate Data Scientist and Machine Learning En
 - Conducted statistical analysis and data manipulation on 7,000+ records to generate actionable insights and reports.
 - Machine Learning Implementation: Developed and deployed classification models to predict lead conversion, using SMOTE for data balance.
 - Data Visualization & Reporting: Created insightful visualizations for lead trends, sales performance, and regional analysis to support decision-making.
-- - [View Project](https://github.com/Mrunalsonekar/Projects-Repo)
+-  [View Project](https://github.com/Mrunalsonekar/Projects-Repo)
+ 
+  - [View Internship Certification from Rubxie AI Solutions as a data scientist] 
