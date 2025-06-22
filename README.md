@@ -24,4 +24,4 @@ Hi, I'm Mrunal Sonekar 👋! A passionate Data Scientist and Machine Learning En
 - Data Visualization & Reporting: Created insightful visualizations for lead trends, sales performance, and regional analysis to support decision-making.
 -  [View Project](https://github.com/Mrunalsonekar/Projects-Repo)
  
-  - [View Internship Certification from Rubxie AI Solutions as a data scientist] 
+  - [View Internship Certification from Rubxie AI Solutions as a data scientist] https://github.com/Mrunalsonekar/MrunalSonekar
